@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<Landscape updated="2023-05-08T03:47:27Z" version="1" generator="SAP GUI for Windows v8000.1.0.155">
+	<Workspaces>
+		<Workspace uuid="6337eeab-f00d-4725-858f-26e62c606582" name="Local" expanded="1">
+			<Node uuid="aa303029-06bf-4cc4-ab9a-dbc81ecde223" name="ALL Domain User">
+				<Node uuid="3af50b42-c8be-4c9e-873c-1eea1d8d5ba6" name="SAP HANA DR">
+					<Item uuid="998fbe7c-303e-41da-baa4-99580abd8d41" serviceid="bf4207cd-5090-45af-a0a8-6c2cc3789c6a"/>
+					<Item uuid="beca89ca-8458-4a8c-a420-a8bfac1df728" serviceid="f5b37115-7120-4ea5-8cab-489b4e4fefb5"/>
+					<Item uuid="252108aa-35e7-40b0-bbc0-f5172e6b7864" serviceid="c8b81f0e-0909-4e32-b604-1e25d94ce022"/>
+					<Item uuid="44bc80f4-4aa6-4e0b-af19-54ef535ceedf" serviceid="2f95df18-5b93-4f08-b981-dd67be73331c"/>
+					<Item uuid="174630a9-3c72-4e9b-b1f2-74faee2ecc38" serviceid="a96cc039-fcfa-4d15-be23-093785de4a3e"/>
+				</Node>
+				<Node uuid="0f005b2a-e177-4a06-a3b1-d5ba629a91a2" name="SAP HANA PPRD">
+					<Item uuid="c604d7f0-a362-496a-a758-1d3686784059" serviceid="35b1af68-50c6-46ff-89d6-729a7d94f8d2"/>
+					<Item uuid="504bd1cd-8f24-4b70-900f-4aceb6e87ded" serviceid="d1d0edcb-1eb8-4312-b551-2dfed5ed3a39"/>
+				</Node>
+				<Node uuid="eea7fe83-45e1-4959-ad3f-c337d8e8aa0b" name="SAP HANA PROD">
+					<Item uuid="0b507325-0843-4dc6-8d0d-2ff655c03b8f" serviceid="22edc648-e4ef-48b2-97f9-09e12b2b69dd"/>
+					<Item uuid="b1b6ab07-78ee-4c5f-bf9f-2fb0069cb27b" serviceid="96c29c42-fea8-4f08-a702-c972016fae74"/>
+					<Item uuid="caccc875-6987-4553-9308-80f52feee08a" serviceid="08354bc0-5b47-4bbe-a9c5-2e8e97bc7456"/>
+					<Item uuid="ef109ed7-709f-404b-9231-b9bb1a702862" serviceid="b91668cf-1f61-446c-91fb-74dbbda37f38"/>
+				</Node>
+				<Node uuid="27e21369-1fd7-424a-9f6a-140e8af8dd38" name="SAP HANA QA">
+					<Item uuid="835fddb8-3c97-40f2-90f8-7955b9dc624f" serviceid="1069abd7-cfb2-41f6-9493-e7f44e7bcb73"/>
+					<Item uuid="cd7b6426-9340-48cc-8bc3-d2581efe0187" serviceid="9669acce-a808-46b2-8185-447b5c434a66"/>
+					<Item uuid="cec9d0a9-0a86-4da6-89cf-b04213d5f904" serviceid="820bf811-25be-460d-823f-240baac65fba"/>
+				</Node>
+				<Node uuid="f5de8818-1f5a-4483-b475-f2db6a2f3f38" name="SAP HANA SANDBOX">
+					<Item uuid="e3f21cd0-390d-42bb-819c-67642f58b4c8" serviceid="12e704e9-587d-4830-9669-f75a2a856c07"/>
+					<Item uuid="87c73edc-7843-482b-af3c-14a8950c0615" serviceid="df62174e-0ed7-4e30-a1fd-a2508cb3f461"/>
+				</Node>
+				<Node uuid="bce83adf-262c-4c20-9387-45e91cb2ade9" name="SAP HANA TRAINING">
+					<Item uuid="c494f524-1715-4419-a340-3b4014b87591" serviceid="dfe76099-f93e-46b4-ae41-c2a8c8f29409"/>
+					<Item uuid="7c08c210-eeed-4e1d-b356-bd5c484375e4" serviceid="98968249-31c0-4f50-9b90-2a33cdd95c19"/>
+				</Node>
+				<Node uuid="127ebe3c-a60d-49f0-a00b-5df984f774da" name="SAP HANA DEVELOPMENT">
+					<Item uuid="b6d48b0a-558f-4f4c-bd8d-56068439037d" serviceid="1700b76e-deb6-4f20-99df-f84e7cfa02a2"/>
+					<Item uuid="a8461bc0-8fe7-48ba-aca1-2b8d886df266" serviceid="0ad60186-7213-49a6-bdd0-f47b601e6735"/>
+					<Item uuid="99fbbd91-9d31-4dcd-bc29-9837443a4c43" serviceid="38884d93-613f-4f9d-8365-c4a4ec120623"/>
+					<Item uuid="f2f7f3a3-34a5-41fc-8b83-8f7162a97ae0" serviceid="872b808d-a3bf-4577-ac56-954bb3d64ca0"/>
+				</Node>
+				<Node uuid="119c662e-ed45-47b6-b825-007c068eb14c" name="SAP ECC (EXISTING)">
+					<Item uuid="14283e65-98f8-4e3b-8e91-6f6eb160f8d0" serviceid="6c47fce0-1ac7-4ff0-9138-72254d56ecde"/>
+					<Item uuid="c559cd48-3d79-4d19-a1ea-9e7435e74069" serviceid="12803a7d-68d4-4a09-9e4b-1b04ddd22ade"/>
+					<Item uuid="2f0cd971-f2d5-40ed-bfea-c71d39d7b571" serviceid="cdf09e45-8a6d-4422-8580-37677e5359bc"/>
+					<Item uuid="28cd210e-1f99-4e74-a07c-6ce9d09b9594" serviceid="a0df13e6-3f08-460f-8046-c29320f1dbf7"/>
+					<Item uuid="3ee19c6c-b225-476d-9516-a6d8666c4cec" serviceid="8abe3af0-a321-4694-b42e-7ea72bd057e6"/>
+				</Node>
+			</Node>
+			<Node uuid="399c73a3-3e86-4b98-ac2a-5d7033e0fca8" name="S/4HANA on RISE">
+				<Item uuid="0b507325-0843-4dc6-8d0d-3ff655a1128f" serviceid="22c1c648-e4ef-48b2-97f9-ffe121dc7e11"/>
+				<Item uuid="0b507325-0843-4dc6-8d0d-4ff655c13b18" serviceid="22c1c648-e4ef-48b2-97f9-09e121dc8e01"/>
+				<Item uuid="0b507325-0843-4dc6-8d0d-2ff655c0128f" serviceid="22c1c648-e4ef-48b2-97f9-ffe121dc7e33"/>
+			</Node>
+		</Workspace>
+	</Workspaces>
+	<Services>
+		<Service type="SAPGUI" uuid="872b808d-a3bf-4577-ac56-954bb3d64ca0" name="SOLUTION MANAGER DEVELOPMENT (S1D)" systemid="S1D" mode="1" server="ASAPSOL301.dc.capitaland.com:3201" sapcpg="1100" dcpg="2" sncname="p/secude:CN=SAPServiceS1D"/>
+		<Service type="SAPGUI" uuid="cdf09e45-8a6d-4422-8580-37677e5359bc" name="CRQ CL QA System" systemid="CRQ" mode="1" server="dengar.dc.capitaland.com:3201" sncname="p:SAPCRQ/dengar.dc.capitaland.com@DC.CAPITALAND.COM" sncop="3" sapcpg="1100" dcpg="2"/>
+		<Service type="SAPGUI" uuid="6c47fce0-1ac7-4ff0-9138-72254d56ecde" name="CRD CL DEV System" systemid="CRD" mode="1" server="Dengar.dc.capitaland.com:3200" sncname="p:SAPCRD/dengar.dc.capitaland.com@DC.CAPITALAND.COM" sncop="9" sapcpg="1100" dcpg="2"/>
+		<Service type="SAPGUI" uuid="12803a7d-68d4-4a09-9e4b-1b04ddd22ade" name="CRP CL PROD SYSTEM" systemid="CRP" mode="1" server="sarcilh.dc.capitaland.com:3200" sncname="p/secude:CN=SAPServiceE1D" sapcpg="1100" dcpg="2" sncop="9"/>
+		<Service type="SAPGUI" uuid="38884d93-613f-4f9d-8365-c4a4ec120623" name="S/4 HANA DEVELOPMENT (E1D)" systemid="E1D" mode="1" server="ASAPECC301.dc.capitaland.com:3201" sapcpg="1100" dcpg="2" sncname="p/secude:CN=SAPServiceE1D" clocale="FR" sncop="9"/>
+		<Service type="SAPGUI" uuid="df62174e-0ed7-4e30-a1fd-a2508cb3f461" name="S/4 HANA SANDBOX (E1S)" systemid="E1S" mode="1" server="ASAPECC401.dc.capitaland.com:3201" sncop="-1" sapcpg="1100" dcpg="2"/>
+		<Service type="SAPGUI" uuid="8abe3af0-a321-4694-b42e-7ea72bd057e6" name="DRP DR PROD SYSTEM" systemid="CRP" mode="1" server="drsap.dc.capitaland.com:3200" sncname="p:SAPCRP/sarcilh.dc.capitaland.com@DC.CAPITALAND.COM" sncop="9" sapcpg="1100" dcpg="2"/>
+		<Service type="SAPGUI" uuid="9669acce-a808-46b2-8185-447b5c434a66" name="S/4 HANA QUALITY (E1Q)" systemid="E1Q" mode="1" server="ASAPECC201.dc.capitaland.com:3201" sapcpg="1100" dcpg="2" sncname="p/secude:CN=SAPServiceE1Q"/>
+		<Service type="SAPGUI" uuid="1700b76e-deb6-4f20-99df-f84e7cfa02a2" name="FIORI GATEWAY DEVELOPMENT (G1D)" systemid="G1D" mode="1" server="SSAPGT301.dc.capitaland.com:3201" sapcpg="1100" dcpg="2" sncname="p/secude:CN=Apps_sap_krbssvcl1d"/>
+		<Service type="SAPGUI" uuid="a0df13e6-3f08-460f-8046-c29320f1dbf7" name="CSP Solution Manager" systemid="CSP" mode="1" server="sgsolappsvr01.dc.capitaland.com:3200" sncop="-1" sapcpg="1100" dcpg="2"/>
+		<Service type="SAPGUI" uuid="1069abd7-cfb2-41f6-9493-e7f44e7bcb73" name="GRC QUALITY (C1Q)" systemid="C1Q" mode="1" server="ASAPGRC201.dc.capitaland.com:3201" sapcpg="1100" dcpg="2" sncname="p/secude:CN=SAPServiceC1Q" sncop="9"/>
+		<Service type="SAPGUI" uuid="12e704e9-587d-4830-9669-f75a2a856c07" name="FIORI GATEWAY SANDBOX (G1S)" systemid="G1S" mode="1" server="ssapgt401.dc.capitaland.com:3201" sncop="-1" sapcpg="1100" dcpg="2"/>
+		<Service type="SAPGUI" uuid="0ad60186-7213-49a6-bdd0-f47b601e6735" name="GRC DEVELOPMENT (C1D)" systemid="C1D" mode="1" server="ASAPGRC301.dc.capitaland.com:3201" sapcpg="1100" dcpg="2" sncname="p/secude:CN=SAPServiceC1D"/>
+		<Service type="SAPGUI" uuid="dfe76099-f93e-46b4-ae41-c2a8c8f29409" name="S/4 HANA TRAINING (E1T)" systemid="E1T" mode="1" server="ASAPECC351.dc.capitaland.com:3201" sapcpg="1100" dcpg="2" sncname="p/secude:CN=SAPServiceE1T" sncop="9"/>
+		<Service type="SAPGUI" uuid="98968249-31c0-4f50-9b90-2a33cdd95c19" name="S/4 HANA TRAINING VIA EXTERNAL (E1T)" systemid="E1T" mode="1" server="ASAPECC351.dc.capitaland.com:3201" sapcpg="1100" dcpg="2" routerid="dd96bcc2-c1b2-4fe2-bc7a-3cfb1bbb04f0" sncname="p:CN=SAPServiceE1T"/>
+		<Service type="SAPGUI" uuid="35b1af68-50c6-46ff-89d6-729a7d94f8d2" name="S/4 HANA PPRD (E1R)" systemid="E1R" mode="1" server="ASAPECC441.dc.capitaland.com:3201" sapcpg="1100" dcpg="2" sncname="p/secude:CN=SAPServiceE1R"/>
+		<Service type="SAPGUI" uuid="22edc648-e4ef-48b2-97f9-09e121dc7e00" name="S/4 HANA PROD (E1P)" systemid="E1P" server="ONLINE_ALL" sapcpg="1100" dcpg="2" msid="3a94d003-8fd3-4356-8bfb-4753f8219cc9" sncname="p/secude:CN=SAPServiceE1P" clocale="EN" sncop="9"/>
+		<Service type="SAPGUI" uuid="22edc648-e4ef-48b2-97f9-09e12b2b69dd" name="S/4 HANA PROD (E1P)" systemid="E1P" server="ONLINE_ALL" sapcpg="1100" dcpg="2" msid="3a94d003-8fd3-4356-8bfb-4753f8219cc9" sncname="p/secude:CN=SAPServiceE1P" clocale="EN" sncop="9"/>
+		<Service type="SAPGUI" uuid="96c29c42-fea8-4f08-a702-c972016fae74" name="SOLUTION MANAGER PROD (S1P)" systemid="S1P" mode="1" server="ASAPSOL001.dc.capitaland.com:3201" sapcpg="1100" dcpg="2" sncname="p/secude:CN=SAPServiceS1P" sncop="9"/>
+		<Service type="SAPGUI" uuid="bf4207cd-5090-45af-a0a8-6c2cc3789c6a" name="S/4 HANA DR (E1P-DR)" systemid="E1P" mode="1" server="10.8.102.11:3201" sapcpg="1100" dcpg="2" sncname="p/secude:CN=SAPServiceE1P@DC.CAPITALAND.COM" sncop="9"/>
+		<Service type="SAPGUI" uuid="820bf811-25be-460d-823f-240baac65fba" name="S/4 HANA QUALITY (E1Q) EXT" systemid="E1Q" mode="1" server="ASAPECC201.dc.capitaland.com:3201" sapcpg="1100" dcpg="2" routerid="dd96bcc2-c1b2-4fe2-bc7a-3cfb1bbb04f0" sncname="p/secude:CN=SAPServiceE1Q"/>
+		<Service type="SAPGUI" uuid="d1d0edcb-1eb8-4312-b551-2dfed5ed3a39" name="S/4 HANA PPRD (E1R) EXT" systemid="E1R" mode="1" server="ASAPECC441.dc.capitaland.com:3201" sapcpg="1100" dcpg="2" routerid="dd96bcc2-c1b2-4fe2-bc7a-3cfb1bbb04f0" sncname="p/secude:CN=SAPServiceE1R"/>
+		<Service type="SAPGUI" uuid="08354bc0-5b47-4bbe-a9c5-2e8e97bc7456" name="GRC PROD (C1P)" systemid="C1P" mode="1" server="ASAPGRC001.dc.capitaland.com:3201" sncname="p/secude:CN=SAPServiceC1P" sapcpg="1100" dcpg="2" sncop="9"/>
+		<Service type="SAPGUI" uuid="b91668cf-1f61-446c-91fb-74dbbda37f38" name="FIORI GATEWAY PRODUCTION (G1P)" systemid="G1P" mode="1" server="SSAPGT001.dc.capitaland.com:3201" sapcpg="1100" dcpg="2" sncname="p/secude:CN=Apps_sap_krbssvcl1p"/>
+		<Service type="SAPGUI" uuid="f5b37115-7120-4ea5-8cab-489b4e4fefb5" name="FIORI GATEWAY PRODUCTION (G1P-DR)" systemid="G1P" mode="1" server="10.8.102.31:3201" sapcpg="1100" dcpg="2" sncname="p/secude:CN=Apps_sap_krbssvcl1p"/>
+		<Service type="SAPGUI" uuid="c8b81f0e-0909-4e32-b604-1e25d94ce022" name="GRC PROD (C1P-DR)" systemid="C1P" mode="1" server="10.8.102.91:3201" sncop="9" sapcpg="1100" dcpg="2" sncname="p/secude:CN=SAPServiceC1P"/>
+		<Service type="SAPGUI" uuid="2f95df18-5b93-4f08-b981-dd67be73331c" name="SOLUTION MANAGER PROD (S1P-DR)" systemid="S1P" mode="1" server="10.8.102.141:3201" sncop="9" sapcpg="1100" dcpg="2" sncname="p/secude:CN=SAPServiceS1P"/>
+		<Service type="SAPGUI" uuid="a96cc039-fcfa-4d15-be23-093785de4a3e" name="S/4 HANA DR (E1P-DR EXT)" systemid="E1P" mode="1" server="10.8.102.11:3201" sncop="-1" sapcpg="1100" dcpg="2" routerid="dd96bcc2-c1b2-4fe2-bc7a-3cfb1bbb04f0"/>
+		<Service type="SAPGUI" uuid="4b6c552a-47fb-49b7-bd81-981258094dd0" name="PRD: S/4HANA 2022 on RISE Node #2" systemid="CLP" mode="1" server="vhcbuclpai02.sap.capitaland.com:3200" sncop="-1" dcpg="2"/>
+		<Service type="SAPGUI" uuid="8402a7d7-d7c3-422c-8ae4-cbb6e4bbaabc" name="STG: S/4HANA 2022 on RISE Node #2" systemid="CLQ" mode="1" server="vhcbuclqai02.sap.capitaland.com:3200" sncop="-1" dcpg="2"/>
+		<Service type="SAPGUI" uuid="d5d80598-723d-4ad8-b2d3-29928d10ba30" name="DEV: S/4HANA 2022 on RISE" systemid="CLD" mode="1" server="vhcbucldci.sap.capitaland.com:3200" sncop="-1" dcpg="2"/>
+		<Service type="SAPGUI" uuid="703d5917-599a-4fe8-8871-ff5d06ef6285" name="PRD: S/4HANA 2022 on RISE Node #1" systemid="CLP" mode="1" server="vhcbuclpai01.sap.capitaland.com:3200" sncop="-1" dcpg="2"/>
+		<Service type="SAPGUI" uuid="c1cf9fab-602d-41e2-98cd-7b5ee5bc9c61" name="STG: S/4HANA 2022 on RISE Node #1" systemid="CLQ" mode="1" server="vhcbuclqai01.sap.capitaland.com:3200" sncop="-1" dcpg="2"/>
+		<Service type="SAPGUI" uuid="22c1c648-e4ef-48b2-97f9-09e121dc8e01" name="CLP: Production S/4HANA 2022 on RISE" systemid="CLP" server="PUBLIC" dcpg="2" msid="3a94d003-8fd3-4356-8bfb-4753f8219ac9" clocale="EN" sncname="p:CN=CLP, OU=SAP-HEC, O=SAP SE, C=DE"/>
+		<Service type="SAPGUI" uuid="22c1c648-e4ef-48b2-97f9-ffe121dc7e33" name="CLQ: Staging S/4HANA 2022 on RISE" systemid="CLQ" server="PUBLIC" dcpg="2" msid="3a94d003-8fd3-4356-8bfb-4753f8219cc8" clocale="EN" sncname="p:CN=CLQ, OU=SAP-HEC, O=SAP SE, C=DE"/>
+		<Service type="SAPGUI" uuid="22c1c648-e4ef-48b2-97f9-ffe121dc7e11" name="CLD: Development S/4HANA 2022 on RISE" systemid="CLD" server="PUBLIC" dcpg="2" msid="3a94d003-8fd3-4356-8bfb-4753f8219cc7" clocale="EN" sncname="p:CN=CLD, OU=SAP-HEC, O=SAP SE, C=DE"/>
+	</Services>
+	<Routers>
+		<Router uuid="dd96bcc2-c1b2-4fe2-bc7a-3cfb1bbb04f0" name="/H/168.128.148.138/S/3299" description="/H/168.128.148.138/S/3299" router="/H/168.128.148.138/S/3299"/>
+		<Router uuid="9c7af991-e6fe-4d9a-b21a-fce882790050" name="/H/p/secude:CN=SAPServiceE1Q@CLC.CAPITALAND.COM" description="/H/p/secude:CN=SAPServiceE1Q@CLC.CAPITALAND.COM" router="/H/p/secude:CN=SAPServiceE1Q@CLC.CAPITALAND.COM"/>
+	</Routers>
+	<Messageservers>
+		<Messageserver uuid="3a94d003-8fd3-4356-8bfb-4753f8219cc9" name="E1P" host="ASAPECC001.dc.capitaland.com" port="3602"/>
+		<Messageserver uuid="3a94d003-8fd3-4356-8bfb-4753f8219ac9" name="CLP" host="vhcbuclpcs.sap.capitaland.com" port="3601"/>
+		<Messageserver uuid="3a94d003-8fd3-4356-8bfb-4753f8219cc8" name="CLQ" host="vhcbuclqcs.sap.capitaland.com" port="3601"/>
+		<Messageserver uuid="3a94d003-8fd3-4356-8bfb-4753f8219cc7" name="CLD" host="vhcbucldcs.sap.capitaland.com" port="3601"/>
+	</Messageservers>
+	<Includes>
+		<Include url="file:///C:/sap/SAPUILandscapeGlobal.xml" index="0"/>
+	</Includes>
+</Landscape>
